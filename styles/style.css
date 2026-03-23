@@ -1,0 +1,13 @@
+.user-bubble {
+background:#DCF8C6;
+padding:10px;
+border-radius:10px;
+margin:10px;
+}
+
+.ai-bubble {
+background:#F1F0F0;
+padding:10px;
+border-radius:10px;
+margin:10px;
+}
